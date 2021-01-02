@@ -1,0 +1,5 @@
+name: FruityCore
+version: 1.0
+author: ShineLoliMC
+main: io.shine.fruitycore.bungee.CoreBungee
+depends: ["FruityAPI"]
